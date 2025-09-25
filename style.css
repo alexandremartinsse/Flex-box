@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(60, 0, 255);
+}
+    .flex-item-center{
+     display: flex;
+     justify-content: center;
+    }
+    .card{
+     width: 50px;
+     height: 50px;
+     border: 1px solid black;
+     margin: 10px;
+     padding: 5px;
+     border-radius: 10px;
+     background: rgb(88, 227, 255);
+    }
